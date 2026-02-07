@@ -55,7 +55,7 @@ export const ContactSection = () => {
                 <div>
                   <h4 className="font-semibold text-foreground mb-1">Adresse</h4>
                   <p className="text-muted-foreground">
-                    Färberstraße 54, 90402 Nürnberg
+                    Donauwörther Str. 50, 86154 Augsburg
                   </p>
                 </div>
               </div>
@@ -68,10 +68,10 @@ export const ContactSection = () => {
                 <div>
                   <h4 className="font-semibold text-foreground mb-1">Telefon</h4>
                   <a
-                    href="tel:015118311067"
+                    href="tel:017681476257"
                     className="text-muted-foreground hover:text-primary transition-colors"
                   >
-                    015118311067
+                    017681476257
                   </a>
                 </div>
               </div>
@@ -84,9 +84,9 @@ export const ContactSection = () => {
                 <div>
                   <h4 className="font-semibold text-foreground mb-1">Öffnungszeiten</h4>
                   <p className="text-muted-foreground">
-                    Mo. – Fr. 10:00–20:00 Uhr
+                    Di. – Fr. 8:30–19:00 Uhr
                     <br />
-                    Sa. 10:00–19:00 Uhr
+                    Sa. 8:30–18:00 Uhr
                   </p>
                 </div>
               </div>
@@ -99,7 +99,7 @@ export const ContactSection = () => {
               </Button>
 
               <Button variant="goldOutline" size="xl" asChild>
-                <a href="tel:+4917629117689">Jetzt anrufen</a>
+                <a href="tel:017681476257">Jetzt anrufen</a>
               </Button>
             </div>
           </AnimateOnScroll>
